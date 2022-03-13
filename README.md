@@ -18,3 +18,7 @@ The final input line denotes the gateway routers we are trying to find a path to
 ##### 2 5
 
 There is additional information that was available, but I'm trying to keep it somewhat ambiguous so if the prof reuses this assignment.
+
+The program output was ultimatley for each node to denote the length of the path to the gateway routers while identifying the next hop.
+
+If creating this without restriction the program would have been put together differently, we were only allowed 1 Java file.
