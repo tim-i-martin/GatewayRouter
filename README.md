@@ -8,7 +8,7 @@ The final input line denotes the gateway routers we are trying to find a path to
 
 
   
-6
+6/n
 0 1 10 -1 -1 2
 10 0 1 -1 -1 -1
 1 10 0 -1 -1 -1
